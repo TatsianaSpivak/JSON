@@ -1,2 +1,8 @@
-
+ {
+	 "Name" : "Tatsiana",
+	 "Surname" : "Spivak",
+	 "Age" : 38,
+	 "Number of pets" : 1,
+	 "Salary" : 600
+ }
 git add .
